@@ -28,6 +28,10 @@ This app analyzes your Whatsapp chat to give you insights into your messaging be
 5. Wait for the analysis to complete.
 6. Explore the results!
 
+or
+
+https://nikkkhilram-wca-main-ysjl0c.streamlit.app/
+
 # Example Chat File
 An example chat file is included in the repository (example_chat.txt) for testing purposes. Feel free to use this file to try out the app.
 
